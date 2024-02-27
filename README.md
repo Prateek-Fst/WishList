@@ -12,14 +12,13 @@ This is a simple wish list manager built with React. It allows users to add item
 ## Installation
 
 1. Clone the repository:
-git clone [https://github.com//react-wish-list.git](https://github.com/Prateek-Fst/WishList.git)
+ git clone [https://github.com//react-wish-list.git](https://github.com/Prateek-Fst/WishList.git)
 2. Navigate into the project directory:
-3. cd react-wish-list
-4. Install dependencies:
-5.   install
-6. Run the application:
-7.   start
-8. 
+ cd react-wish-list
+3. Install dependencies:
+ install
+4. Run the application:
+ start
 5. Open [http://localhost:3000](http://localhost:3000) in your browser to view the app.
 
 ## Usage
@@ -38,7 +37,7 @@ Link https://drive.google.com/file/d/1jdrdvPCoxHs6dSZ2Q2B336z577z_DLOc/view?usp=
 
 ## Credits
 
-This project was created by [Your Name].
+This project was created by Prateek.
 
 
 
